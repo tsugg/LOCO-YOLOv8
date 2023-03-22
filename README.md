@@ -8,6 +8,4 @@ Using YOLOv8, ByteTrack, and Supervision to detect Logistics Objects in Context 
 
 </div>
 
-<div align="center">
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjliZjIyYzA5MTJmZWM4M2E4MzE2NDAxNjc1MGU5ZmVlNzlhMWMxYiZjdD1n/4pQvPHi6ZCYXt142SD/giphy.gif)
-</div>
