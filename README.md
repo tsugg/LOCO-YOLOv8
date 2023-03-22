@@ -14,5 +14,5 @@ Using YOLOv8, ByteTrack, and Supervision to detect Logistics Objects in Context 
 <div align="center">
 
 ![](forklift_aisle_out.gif)
-
+![](forklift_training_out.gif)
 </div>
