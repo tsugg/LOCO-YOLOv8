@@ -1,6 +1,9 @@
+<div align="center">
+
 # LOCO-YOLOv8
 Using YOLOv8, ByteTrack, and Supervision to detect Logistics Objects in Context (LOCO)
 
+</div>
 
 <div align="center">
 
@@ -8,4 +11,8 @@ Using YOLOv8, ByteTrack, and Supervision to detect Logistics Objects in Context 
 
 </div>
 
-![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjliZjIyYzA5MTJmZWM4M2E4MzE2NDAxNjc1MGU5ZmVlNzlhMWMxYiZjdD1n/4pQvPHi6ZCYXt142SD/giphy.gif)
+<div align="center">
+
+![](forklift_aisle_out.gif)
+
+</div>
