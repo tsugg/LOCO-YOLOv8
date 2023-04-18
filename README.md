@@ -15,4 +15,6 @@ Using YOLOv8, ByteTrack, and Supervision to detect Logistics Objects in Context 
 
 ![](forklift_aisle_out.gif)
 ![](forklift_training_out.gif)
+![image](https://user-images.githubusercontent.com/48035539/232911087-f2e1ccd5-86d6-4d4a-8d9e-d504703cad1c.png)
+
 </div>
